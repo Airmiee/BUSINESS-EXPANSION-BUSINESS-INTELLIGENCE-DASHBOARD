@@ -29,12 +29,12 @@ During the project building phase, the following were considered:
 
 ### Components of the Dashboard:
 
-* Location Progress Bar
-* Conversion Rate by Locations
-* Resgistration and Activated by Candidate Locations
-* Total Revenue: Daily, Monthly, and Yearly
-* Session by Location Category
-* Total Registrations by Reg Month
+* Location Progress Bar.
+* Conversion Rate by Locations.
+* Registration and Activated by Candidate Locations.
+* Total Revenue: Daily, Monthly, and Yearly.
+* Session by Location Category.
+* Total Registrations by Reg Month.
 
 ### Conclusion:
 
